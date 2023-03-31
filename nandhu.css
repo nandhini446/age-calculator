@@ -21,7 +21,7 @@ body{
     margin-left: 15%;
     margin-top: 10%;
     background-color: rgba(29, 40, 197, 0.4);
-    text:white;
+    text_color:white;
     border: 1px solid white;
     border-radius: 2%;
     display: flex;
